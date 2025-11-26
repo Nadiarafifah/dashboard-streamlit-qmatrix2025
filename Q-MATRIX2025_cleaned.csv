@@ -1,0 +1,94 @@
+Production Date,Product Code,Product Description,Level (0),Level (1),Level (2),Level (3),Level (4),Defect Priority Index,Defect Severity Grade,Machine
+2025-01-01,69724128,A,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"400,00",A,1
+2025-03-01,69724128,A,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"200,00",A,2
+2025-01-01,64340450,A,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"200,00",A,3
+2025-01-01,64340450,A,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"200,00",A,2
+2025-01-01,68814209,B,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"200,00",A,4
+2025-01-01,69719950,C,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"200,00",A,9
+2025-01-01,64820256,D,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"200,00",A,8
+2025-01-01,69719811,E,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"80,00",A,3
+2025-02-01,69719811,E,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"80,00",A,3
+2025-01-01,69719811,E,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",A,10
+2025-01-01,69973668,F,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",A,7
+2025-01-01,69973668,F,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,12
+2025-02-01,64371126,G,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,12
+2025-02-01,64351532,H,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,12
+2025-01-01,64351532,I,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,12
+2025-02-01,64351532,J,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,12
+2025-01-01,64351532,J,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,12
+2025-03-01,64351532,J,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,12
+2025-03-01,69976871,K,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,6
+2025-03-01,69976871,M,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,1
+2025-01-01,69976871,L,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,1
+2025-01-01,69976871,N,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,3
+2025-01-01,68870920,N,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,7
+2025-02-01,68870920,N,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,9
+2025-01-01,68870920,N,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,11
+2025-01-01,68870920,N,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,11
+2025-01-01,68760824,N,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,11
+2025-01-01,69554860,O,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"40,00",B,13
+2025-01-01,69554860,O,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,13
+2025-03-01,69554860,P,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,7
+2025-03-01,69554860,P,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"40,00",B,14
+2025-03-01,69554860,P,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,15
+2025-01-01,69554860,P,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,11
+2025-01-01,68879725,P,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"400,00",B,2
+2025-01-01,62754933,P,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"400,00",B,8
+2025-01-01,62754933,P,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"400,00",B,16
+2025-01-01,68771652,Q,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"400,00",B,13
+2025-02-01,68771652,Q,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"400,00",B,7
+2025-02-01,68771652,Q,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"200,00",B,13
+2025-01-01,68771652,Q,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"200,00",B,14
+2025-03-01,68771652,Q,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"200,00",B,17
+2025-03-01,68771652,Q,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"200,00",B,2
+2025-03-01,68771652,Q,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"120,00",B,11
+2025-01-01,68771652,Q,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"80,00",B,17
+2025-01-01,68771652,Q,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,3
+2025-01-01,68771652,Q,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"80,00",B,14
+2025-01-01,68771652,Q,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,9
+2025-01-01,68771652,Q,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"80,00",B,2
+2025-03-01,68771652,Q,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"80,00",B,14
+2025-02-01,68771628,R,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"80,00",B,17
+2025-03-01,68771628,R,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"80,00",B,17
+2025-03-01,68771628,R,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,16
+2025-02-01,68114440,R,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"80,00",B,3
+2025-01-01,62731772,S,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"80,00",B,2
+2025-01-01,62731772,S,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,3
+2025-01-01,62731772,S,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"80,00",B,11
+2025-01-01,68755287,T,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,7
+2025-01-01,68755287,T,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,2
+2025-01-01,68870920,T,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"80,00",B,2
+2025-02-01,69699388,T,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,2
+2025-01-01,69699388,T,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,8
+2025-01-01,69699388,T,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,2
+2025-01-01,62756841,B,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,9
+2025-01-01,62756841,B,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,2
+2025-01-01,68479918,I,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"80,00",B,7
+2025-02-01,68479918,I,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"40,00",B,7
+2025-02-01,68479918,I,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,4
+2025-01-01,68493270,K,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,4
+2025-01-01,68479918,K,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,7
+2025-01-01,64412785,I,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",A,1
+2025-01-01,64412785,K,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",A,2
+2025-01-01,64412785,K,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",A,1
+2025-03-01,64412785,K,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",A,2
+2025-01-01,64412785,K,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",A,1
+2025-03-01,64412785,K,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",A,7
+2025-02-01,64412785,K,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",A,2
+2025-01-01,64412785,K,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"40,00",A,14
+2025-01-01,64412785,K,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,14
+2025-01-01,64412785,K,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,7
+2025-01-01,64412785,K,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,18
+2025-01-01,64412785,K,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,19
+2025-01-01,68351443,P,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,1
+2025-01-01,68351443,P,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"40,00",B,2
+2025-01-01,68351443,P,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,12
+2025-03-01,68351443,P,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,18
+2025-02-01,68351443,P,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"40,00",B,8
+2025-01-01,68351443,P,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,11
+2025-01-01,64852513,R,Consumer complaints,Complaints,Product,Quantity,Underfill - underweight,"40,00",B,14
+2025-01-01,64852513,R,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,7
+2025-01-01,64308725,H,Consumer complaints,Complaints,Product,Foreign matter,Industrial materials,"40,00",B,2
+2025-01-01,64308725,H,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,14
+2025-01-01,62756061,H,Consumer complaints,Complaints,Product,Texture,Consistency / texture complaint,"40,00",B,8
+2025-01-01,64412785,H,Consumer complaints,Complaints,Product,Quantity,Empty packs / sachets,"40,00",B,2
